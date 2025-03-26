@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1742994700
+icon.svg::CompressedTexture2D/CompressedTexture2D::6530748671927451532::1742985833::1742986118::1::::<><><>0<>0<>25154711915eeab2f9881826b1bf731a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://wafefunc_algorithm/::1742991575
+corner.gd::GDScript::9034479215619052395::1742987414::0::1::::Cell_attach_point<>Resource<><>0<>0<><>::
+wafefunc_assembler.gd::GDScript::92567556888542355::1742991575::0::1::::Cell_assembler<>Node2D<><>0<>0<><>::
+wafefunc_cell.gd::GDScript::6250111807314103660::1742989737::0::1::::Cell<>TileMapLayer<><>0<>0<><>::
+::res://wafefunc_algorithm/cells/::1742991575
+testcell.tscn::PackedScene::2420482168638230066::1742991575::0::1::::<><><>0<>0<><>::uid://cvbuotepatnjo::::res://wafefunc_algorithm/wafefunc_cell.gd<>uid://d1yms17nn3hlj::::res://wafefunc_algorithm/corner.gd<>uid://bk3trx53iik6::::res://wafefunc_algorithm/wafefunc_assembler.gd

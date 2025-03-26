@@ -1,0 +1,41 @@
+[gd_scene load_steps=8 format=3 uid="uid://baqq8t02e5dcs"]
+
+[ext_resource type="Script" uid="uid://cvbuotepatnjo" path="res://wafefunc_algorithm/wafefunc_cell.gd" id="1_b71i2"]
+[ext_resource type="Script" uid="uid://d1yms17nn3hlj" path="res://wafefunc_algorithm/corner.gd" id="2_koipn"]
+[ext_resource type="Script" uid="uid://bk3trx53iik6" path="res://wafefunc_algorithm/wafefunc_assembler.gd" id="3_koipn"]
+
+[sub_resource type="Resource" id="Resource_ljll4"]
+script = ExtResource("2_koipn")
+connects_to = Array[int]([1])
+is_type = 0
+metadata/_custom_type_script = "uid://d1yms17nn3hlj"
+
+[sub_resource type="Resource" id="Resource_a0mfi"]
+script = ExtResource("2_koipn")
+connects_to = Array[int]([])
+is_type = 0
+metadata/_custom_type_script = "uid://d1yms17nn3hlj"
+
+[sub_resource type="Resource" id="Resource_nvrs6"]
+script = ExtResource("2_koipn")
+connects_to = Array[int]([])
+is_type = 0
+metadata/_custom_type_script = "uid://d1yms17nn3hlj"
+
+[sub_resource type="Resource" id="Resource_sufgy"]
+script = ExtResource("2_koipn")
+connects_to = Array[int]([])
+is_type = 0
+metadata/_custom_type_script = "uid://d1yms17nn3hlj"
+
+[node name="Cell" type="TileMapLayer"]
+script = ExtResource("1_b71i2")
+up = SubResource("Resource_ljll4")
+down = SubResource("Resource_a0mfi")
+left = SubResource("Resource_nvrs6")
+right = SubResource("Resource_sufgy")
+metadata/_custom_type_script = "uid://cvbuotepatnjo"
+
+[node name="Cell_assembler" type="Node2D" parent="."]
+script = ExtResource("3_koipn")
+metadata/_custom_type_script = "uid://bk3trx53iik6"
