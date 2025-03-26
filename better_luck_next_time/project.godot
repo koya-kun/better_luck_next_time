@@ -12,7 +12,12 @@ config_version=5
 
 config/name="better_luck_next_time"
 config/features=PackedStringArray("4.4", "Mobile")
+boot_splash/bg_color=Color(0.0156863, 0.117647, 0.0862745, 1)
 config/icon="res://icon.svg"
+
+[autoload]
+
+Metadata="*res://metadata/metadata.gd"
 
 [rendering]
 
