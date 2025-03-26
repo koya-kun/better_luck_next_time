@@ -1,3 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1742991043
-icon.svg::CompressedTexture2D::6530748671927451532::1742985697::1742991045::1::::<><><>0<>0<>25154711915eeab2f9881826b1bf731a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1742994652
+icon.svg::CompressedTexture2D/CompressedTexture2D::6530748671927451532::1742985294::1742986078::1::::<><><>0<>0<>25154711915eeab2f9881826b1bf731a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.gd::GDScript::-1::1742994633::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::7215504788912445833::1742994633::0::1::::<><><>0<>0<><>::uid://v7fbfn0044b5::::res://player.gd
+::res://assets/::1742990923
+tileset_1.png::CompressedTexture2D::916651007945125934::1742990906::1742994654::1::::<><><>0<>0<>a23face36247c6e17636d318a6044699<>res://.godot/imported/tileset_1.png-52c37befb28674e93c321ea93978fdc1.ctex::
+tileset_1.tres::TileSet::1974909721201350008::1742990923::0::1::::<><><>0<>0<><>::uid://ncbdxb1dxk2i::::res://assets/tileset_1.png
+::res://metadata/::1742990906
+color_palette.txt::TextFile::-1::1742990906::0::1::::<><><>0<>0<><>::
+metadata.gd::GDScript::965038088776764429::1742990906::0::1::::<>Node<><>0<>0<><>::
+::res://player/::0
