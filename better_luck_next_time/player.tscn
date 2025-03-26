@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://v7fbfn0044b5" path="res://player.gd" id="1_4flbx"]
 
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_onrkg"]
 size = Vector2(40, 40)
 
